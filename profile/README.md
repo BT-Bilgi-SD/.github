@@ -1,1 +1,1 @@
-## BT Bilgi Teknolojileri - SD .NET Team
+## BT Bilgi Teknolojileri - SD Team
